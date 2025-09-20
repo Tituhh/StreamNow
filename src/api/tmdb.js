@@ -1,4 +1,4 @@
-const TMDB_API_KEY = 'YOUR_TMDB_API_KEY'; // Replace with your TMDB API key
+const TMDB_API_KEY = '55b11132b5aef36e8376418dcce756f2'; // Replace with your TMDB API key
 const BASE_URL = 'https://api.themoviedb.org/3';
 
 export async function fetchMovies(page = 1) {
